@@ -4,6 +4,8 @@ channels:
 dependencies:
   - black
   - cattrs
+  - folium
+  - geopandas
   - ipykernel >=6.0
   - ipython >=8.0
   - ipywidgets
@@ -19,4 +21,6 @@ dependencies:
   - pytest >7
   - python ==3.10.*
   - rich >=11
+  - shapely
   - sphinxcontrib-mermaid
+  - typing
