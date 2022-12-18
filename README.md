@@ -4,7 +4,7 @@
 
 Our project aims to provide an accessible and engaging way for people to quickly visualize animal tracking data from [MoveBank](https://www.movebank.org/cms/movebank-main), an open-source animal tracking database. It is Python-based and can be imported as a package for the user to run in a Jupyter notebook.
 
-Tracks from the database are shown on top of an interactive world map, with the ability to view and toggle multiple tracks (if available), and additional information about the animal is sourced from Wikipedia and displayed. 
+Tracks from the database are shown on top of an interactive world map, with the ability to view and toggle multiple tracks (if available), and additional information about the animal is sourced from Wikipedia and displayed.
 
 ## Usage
 
